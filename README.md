@@ -4,4 +4,4 @@ L'algorithme MinMax sera utilisé pour implémenter le jeu.
 
 1) executer le fichier main.pl
 2) executer la requete play. pour commencer le jeu
-4) Placer une piece à une position (I.J): I specifie la ligne et J la colonne. Une liste de positions possibles est etablie.
+4) Placer une pièce à une position (I.J): I specifie la ligne et J la colonne. Une liste de positions possibles est etablie.
